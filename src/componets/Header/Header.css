@@ -1,0 +1,73 @@
+.container {
+    width: 100%;
+}
+
+.linha1 {
+    background-color:#075bb5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 80px;
+    
+}
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: #002c85;
+    padding: 10px 80px;
+    cursor: pointer;
+}
+.botaolinha1 button{
+    background-color: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.acessibilidade{
+    display: flex;
+    gap: 10px;
+}
+.acessibilidade button{
+    border: none;
+    background-color: #002c85;
+    border-radius: 5px;
+    color:white;
+    padding: 7px;
+    cursor: pointer;
+}
+.brasaoimg{
+    width: 100px;
+}
+.linha2{
+    display: flex;  
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 80px;
+    
+}
+
+.cidadenome{
+    font-size: 40px;
+    color: #002c85;
+}
+.barradebusca {
+    display: flex; 
+    border: 2px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    cursor: pointer;
+    height: 100%;
+
+}
+.barradebusca input{
+    border: none;
+    outline: none;
+    border-radius: 5px;
+
+}
+.barradebusca div{
+    background-color:#075bb5;
+    width:30px;
+}

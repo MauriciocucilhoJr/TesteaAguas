@@ -1,0 +1,28 @@
+.footer{
+    width: 100%;
+    display: flex;
+    background-color:  #002c85;
+}
+.brasaofooter{
+   display: flex;
+   width: 65px ;
+   border-radius: 35px;
+}
+.botoesfooter{
+    border: none;
+}
+.botoesfooter button{
+   border: none;
+   background-color: transparent;
+}
+.fundo{
+    border: none;
+}
+.web {
+    font-size: larger;
+    color: white;
+}
+.Webnets{
+    color: white;
+    font-size: 15px;
+}

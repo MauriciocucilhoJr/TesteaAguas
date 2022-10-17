@@ -1,0 +1,98 @@
+*{
+  padding: 0;
+  margin: 0;
+  
+}
+.banner{
+  width: 100%;
+  padding: 0%;
+}
+.onda1 {
+  width: 100%;
+}
+.noticia{
+  display: flex;
+  justify-content: center;
+  font-size: 200%;
+  font-family:Tahoma, Verdana, sans-serif ;
+}
+.vejamais{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  
+}
+.vejamaisbotao {
+background-color: #075bb5;
+color: white;
+width: 400px;
+cursor: pointer;
+font-size: 20px;
+border-radius: 5px;
+}
+.noticiaimg{
+  width: 200px;
+  border-radius: 15px;
+}
+.turismo {
+  display: flex;
+  justify-content: center;
+  ;
+}
+.onda1{
+  padding-bottom: -500px;
+}
+.galeriaimg{
+  width: 20%;
+  border-radius: 25px;
+}
+.galeria{
+  display: flex;
+  justify-content: center;
+}
+.video{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.psbotao {
+  display: flex;
+  align-content: center;
+}
+.psbotao button{
+background-color: green;
+color: white;
+border-radius: 5px;
+width: 200px;
+cursor: pointer;
+margin: 15px 15px 15px 15px;
+font-size: 17px;
+}
+.ps{
+  justify-content: center;
+  align-content: center;
+  margin-left: 400px;
+  
+}
+.cardimg{
+  display: flex;
+  border-radius: 15px;
+  width: 350px;
+  
+}
+.card{
+  display: flex;
+  justify-content: center;
+
+}
+.cards{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 35px;
+}
+.car{
+  margin: 15px;
+}
